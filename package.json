@@ -2,7 +2,7 @@
   "name": "readmore",
   "title": "ReadMore",
   "id": "jid1-tX3s0pBjqPzQAw",
-  "description": "a dinky redirection add-on",
+  "description": "Blocks blacklisted sites and redirects to whitelisted sites.",
   "author": "Eric Schmitt",
   "license": "MPL 2.0",
   "version": "0.1"
