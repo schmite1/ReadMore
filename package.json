@@ -1,9 +1,25 @@
 {
+  "preferences": [
+    {
+      "title": "BlackList",
+      "type": "control",
+      "name": "blackList",
+      "description": "Manages websites to be blocked.",
+      "label": "Edit"
+    },
+    {
+      "title": "WhiteList",
+      "type": "control",
+      "name": "whiteList",
+      "description": "Manages websites to be redirected to when blacklisted websites are accessed.",
+      "label": "Edit"
+    }
+  ],
   "name": "readmore",
   "title": "ReadMore",
   "id": "jid1-tX3s0pBjqPzQAw",
-  "description": "Blocks blacklisted sites and redirects to whitelisted sites.",
+  "description": "Blocks blacklisted websites and redirects to whitelisted websites.",
   "author": "Eric Schmitt",
   "license": "MPL 2.0",
-  "version": "0.1"
-}
+  "version": "1.0"
+ }
