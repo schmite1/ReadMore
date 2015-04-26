@@ -16,3 +16,9 @@ Create test/test-main.js - 04/14/15
   SDK testing script.
 
 Create package.json - 04/14/15
+
+---
+
+Finalize ReadMore implementation
+  Final implementation with all scripts updated. See individual files for details. - 04/26/15
+  NOTE: icons for ReadMore toolbar not included on GitHub
