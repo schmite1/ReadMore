@@ -2,17 +2,17 @@
   "preferences": [
     {
       "title": "BlackList",
-      "type": "control",
+      "type": "string",
       "name": "blackList",
-      "description": "Manages websites to be blocked.",
-      "label": "Edit"
+      "description": "Manage blocked websites. Enter websites separated by commas and/or spaces. NOTE: each URL must be preceded by '*.' without quotes.",
+      "value": ""
     },
     {
-      "title": "WhiteList",
+      "title": "Save BlackList",
       "type": "control",
-      "name": "whiteList",
-      "description": "Manages websites to be redirected to when blacklisted websites are accessed.",
-      "label": "Edit"
+      "name": "saveBlackList",
+      "description": "Saves customized blacklist created above.",
+      "label": "Save"
     }
   ],
   "name": "readmore",
@@ -21,5 +21,5 @@
   "description": "Blocks blacklisted websites and redirects to whitelisted websites.",
   "author": "Eric Schmitt",
   "license": "MPL 2.0",
-  "version": "1.0"
+  "version": "1.1"
  }
