@@ -1,0 +1,22 @@
+/*
+Name: Eric Schmitt
+Course: CSC 415
+Semester: Spring 2015
+Instructor: Dr. Pulimood
+Project name: ReadMore
+Description: A Mozilla Firefox add-on that prevents users from browsing
+certain sites denoted by a customizable blacklist, not by preventing
+site access entirely, but by redirecting to productive alternative
+sites for the user to explore.
+
+Filename: panels.css
+
+Description: CSS stylesheet for redirectPanel.html and errorPanel.html
+
+Last modified on: 04/26/15
+*/
+
+body {
+	background-color:#FAEBD7;
+	text-align:center;
+}
