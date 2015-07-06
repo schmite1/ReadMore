@@ -1,23 +1,21 @@
 // Name: Eric Schmitt
-// Course: CSC 415
-// Semester: Spring 2015
-// Instructor: Dr. Pulimood
 // Project name: ReadMore
 // Description: A Mozilla Firefox add-on that prevents users from browsing
 // 		certain sites denoted by a customizable blacklist, not by preventing
 //		site access entirely, but by redirecting to productive alternative
 //		sites for the user to explore.
 // Filename: whitelist.js
-// Description: Script that creates a whitelist of sites to be redirected to
+// File description: Script that creates a whitelist of sites for redirection
 //		when a blacklisted site (defined in blacklist.js and main.js) is
 //		navigated to. The blacklisted site is replaced with a randomly
-//		selected whitelisted websie.
+//		selected whitelisted website.
 //
 //		This script functions as a proof of concept for a whitelist,
 //    parsing strings, separated by commas and/or spaces, and then
 //    populating an array with the strings, simulating user input.
+//		See main.js line 384 for further details.
 //
-// Last modified on: 04/26/15
+// Last modified on: 07/05/15
 
 //String of URLs separated by commas and/or spaces.
 var whiteList = "https://en.wikipedia.org/wiki/Special:Random, "
