@@ -26,3 +26,5 @@ Finalize ReadMore implementation for submission - 04/26/15
 ---
 
 ReadMore repository made public. All headers updated for public release. - 07/05/15
+
+NOTE: The whitelist feature is is a proof-of-concept rather than a fully functional feature. See main.js line 384 for further details.
