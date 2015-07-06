@@ -1,8 +1,5 @@
 /*
 Name: Eric Schmitt
-Course: CSC 415
-Semester: Spring 2015
-Instructor: Dr. Pulimood
 Project name: ReadMore
 Description: A Mozilla Firefox add-on that prevents users from browsing
 certain sites denoted by a customizable blacklist, not by preventing
@@ -11,9 +8,9 @@ sites for the user to explore.
 
 Filename: panels.css
 
-Description: CSS stylesheet for redirectPanel.html and errorPanel.html
+File description: CSS stylesheet for redirectPanel.html and errorPanel.html
 
-Last modified on: 04/26/15
+Last modified on: 07/05/15
 */
 
 body {
