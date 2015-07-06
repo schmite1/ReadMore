@@ -19,6 +19,10 @@ Create package.json - 04/14/15
 
 ---
 
-Finalize ReadMore implementation - 04/26/15
+Finalize ReadMore implementation for submission - 04/26/15
   Final implementation with all scripts updated. See individual files for details.
   NOTE: icons for ReadMore toolbar not included on GitHub
+
+---
+
+ReadMore repository made public. All headers updated for public release. - 07/05/15
